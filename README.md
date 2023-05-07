@@ -12,7 +12,7 @@ site and are considered the best sellers to notify users of their new potential 
 The data contains the title of the audiobooks sorted by best rating, their respective authors, the regular prices of such items, and the release dates.
 This way, a customer can plan ahead of time and decide as soon as a better deal offer is announced, which in most cases is a limited type of offer.
 
-![alt text](https://github.com/shahriar-rahman/Amazon-Today-Using-Selenium/blob/main/img/amazon_deals.PNG)
+![alt text](https://github.com/shahriar-rahman/Web-Scraping-Audible-Using-Selenium-Webdriver/blob/main/img/Audible_screenshot.PNG)
 
 ## Project Organization
 ---------------------------------------------------------
