@@ -45,7 +45,9 @@ This way, a customer can plan ahead of time and decide as soon as a better deal 
 
 
 --------
-## Methods Required:
+## Methods Utilized:
+• Python 3.11
+
 • Selenium 4.8.3
 
 • Webdriver and Expected Conditions
