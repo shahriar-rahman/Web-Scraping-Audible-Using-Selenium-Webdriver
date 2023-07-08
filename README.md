@@ -1,9 +1,9 @@
-# Web Scraping Audible using Selenium Webdrivers
-
-An automated data scraping script for Amazon products based on a user search, which would parse the sites using the concepts of Pagination to extract the product information and store it inside the memory.
+===========================================================================
+# Web Scraping Audible using Selenium Webdriver
+An automated scraping script for Amazon products information based on a user search, which would, at first, parse through the pages using the concepts of Pagination and scrape all relevant information. After the scraping procedure, it stores the collected inside the memory as different extensions (CSV, XML, and JSON).
 
 ## Introduction
----------------------------------------------------------
+---------------------------------------------------------------------------
 For regular customers at Audible, it is a predominant task to keep track of a myriad of audiobooks. 
 The primary initiative of this project is to obtain relevant information regarding the audiobooks that are handpicked by Audible 
 site and are considered the best sellers to notify users of their new potential purchases. 
@@ -14,7 +14,7 @@ This way, a customer can plan ahead of time and decide as soon as a better deal 
 ![alt text](https://github.com/shahriar-rahman/Web-Scraping-Audible-Using-Selenium-Webdriver/blob/main/img/Audible_screenshot.PNG)
 
 ## Project Organization
----------------------------------------------------------
+---------------------------------------------------------------------------
 
     ├── LICENSE
     ├── Makefile             <- Makefile with various commands
@@ -60,3 +60,4 @@ This way, a customer can plan ahead of time and decide as soon as a better deal 
 • DataFrame Manipulation using Pandas
 
 • Data Storage using CSV, Excel, JSON and XML format
+===========================================================================
