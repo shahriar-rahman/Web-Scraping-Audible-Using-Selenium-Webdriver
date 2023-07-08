@@ -44,7 +44,7 @@ This way, a customer can plan ahead of time and decide as soon as a better deal 
 
 
 --------
-## Methods Utilized:
+## Modules and Methods Required:
 • Python 3.11
 
 • Selenium 4.8.3
@@ -57,7 +57,9 @@ This way, a customer can plan ahead of time and decide as soon as a better deal 
 
 • Pagination
 
-• DataFrame Manipulation using Pandas
+• Pandas 2.0.0
 
-• Data Storage using CSV, Excel, JSON and XML format
+• DataFrame Storage and Manipulation
+
+• File Extensions using CSV, Excel, JSON and XML format
 ===========================================================================
