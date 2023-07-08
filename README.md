@@ -1,7 +1,6 @@
 # Web Scraping Audible using Selenium Webdriver
 
-This is an automated Web scraping project using Selenium to access relevant information about all the books that are considered as 
-the best sellers in Audible.
+An automated data scraping script for Amazon products based on a user search, which would parse the sites using the concepts of Pagination to extract the product information and store it inside the memory.
 
 ## Introduction
 ---------------------------------------------------------
