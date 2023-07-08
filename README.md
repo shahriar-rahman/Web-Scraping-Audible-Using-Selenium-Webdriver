@@ -1,4 +1,4 @@
-# Web Scraping Audible using Selenium Webdriver
+# Web Scraping Audible using Selenium Webdrivers
 
 An automated data scraping script for Amazon products based on a user search, which would parse the sites using the concepts of Pagination to extract the product information and store it inside the memory.
 
