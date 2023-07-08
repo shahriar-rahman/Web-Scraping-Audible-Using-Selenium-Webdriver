@@ -43,7 +43,7 @@ This way, a customer can plan ahead of time and decide as soon as a better deal 
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
 
---------
+---------------------------------------------------------------------------
 ## Modules and Methods Required:
 • Python 3.11
 
