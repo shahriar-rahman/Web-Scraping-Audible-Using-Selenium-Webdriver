@@ -13,6 +13,7 @@ This way, a customer can plan ahead of time and decide as soon as a better deal 
  
 ![alt text](https://github.com/shahriar-rahman/Web-Scraping-Audible-Using-Selenium-Webdriver/blob/main/img/Audible_screenshot.PNG)
 
+
 ## Project Organization
 ---------------------------------------------------------------------------
 
@@ -44,22 +45,28 @@ This way, a customer can plan ahead of time and decide as soon as a better deal 
 
 
 ---------------------------------------------------------------------------
-## Modules and Methods Required:
-• Python 3.11
+## Methodologies Applied:
+* Webdriver and Expected Conditions
+* System queue, Implicit and Explicit Waits
+* Chrome and Chrome Options
+* Pagination
+* DataFrame Storage and Manipulation
+* Saving file extensions using CSV, Excel, JSON and XML format
+• IDE (PyCharm 2023.1 Community Edition)
 
-• Selenium 4.8.3
+## Module Requirements:
+* Python 3.11
+* Selenium 4.8.3
+* Pandas 2.0.0
 
-• Webdriver and Expected Conditions
-
-• System queue, Implicit and Explicit Waits
-
-• Chrome and Chrome Options
-
-• Pagination
-
-• Pandas 2.0.0
-
-• DataFrame Storage and Manipulation
-
-• File Extensions using CSV, Excel, JSON and XML format
+## Installation (using pip)
+In order to *install* bs4 on the local machine, follow these steps:
+1. Open pip and type:
+```
+> pip install selenium                                                   
+```
+2. To install the Pandas Library, type:
+```
+> pip install pandas                                                          
+```
 ===========================================================================
