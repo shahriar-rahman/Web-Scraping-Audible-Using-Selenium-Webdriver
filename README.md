@@ -109,15 +109,33 @@ import pandas
 ```
 import time                                         
 ```  
-3. Then, for Selenium, type:
+3. Then, for Selenium, type the following command:
 ```
 import selenium                                     
 ```
-4. Lastly, to import the webdriver from Selenium module,type:
+4. Lastly, import the webdriver from the Selenium module and simply type:
 ```
 from selenium.webdriver import *                                     
 ```
 <br/><br/>
+
+## Setup.py:
+1. To use the setup.py file in Python, the first objective is to have the setuptools module installed. It can be accomplished by running the following command:
+```
+pip install setuptools                                     
+```
+2. Once the setuptools module is installed, use the setup.py file to build and distribute the Python package by running the following command:
+```
+python setup.py sdist bdist_wheel
+```
+3. In order to install the my_package package, run the following command:
+```
+pip install my_package                                 
+```
+4. This will install the my_package package and any of its dependencies that are not already installed on your system. Once the package is installed, you can use it in your Python programs by importing it like any other module. For example:
+```
+import my_package                                
+```
 
 ## ◘ Supplementary Resources:
 For more details, visit the following links:
