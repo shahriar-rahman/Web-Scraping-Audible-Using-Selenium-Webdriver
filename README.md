@@ -63,7 +63,7 @@ This way, a customer can plan ahead of time and decide as soon as a better deal 
 * Pandas 2.0.0
 
 ## Installation (using pip)
-In order to *install* bs4 on the local machine, follow these steps:
+In order to *install* the required packages on the local machine, follow these steps:
 1. Open pip and type:
 ```
 > pip install selenium                                                   
