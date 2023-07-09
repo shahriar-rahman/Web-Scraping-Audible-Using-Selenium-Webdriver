@@ -121,7 +121,7 @@ from selenium.webdriver import *
 <br/><br/>
 
 ## ◘ Installing setup.py:
-1. To use the setup.py file in Python, the first objective is to have the setuptools module installed. It can be accomplished by running the following command:
+1. To use the *setup.py* file in Python, the first objective is to have the *setuptools* module installed. It can be accomplished by running the following command:
 ```
 pip install setuptools                                     
 ```
