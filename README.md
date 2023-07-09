@@ -120,7 +120,7 @@ from selenium.webdriver import *
 ```
 <br/><br/>
 
-## Setup.py:
+## ◘ Installing setup.py:
 1. To use the setup.py file in Python, the first objective is to have the setuptools module installed. It can be accomplished by running the following command:
 ```
 pip install setuptools                                     
@@ -146,5 +146,8 @@ For more details, visit the following links:
 * https://www.python.org/downloads/release/python-3110/
 
 <br/>
+
+## ◘ License:
+This is free and unencumbered software released into the public domain. Anyone is free to copy, modify, publish, use, compile, sell, or distribute this software, either in source code form or as a compiled binary, for any purpose, commercial or non-commercial, and by any means.
 
 ===========================================================================
