@@ -2,381 +2,381 @@
 <data>
   <row>
     <index>0</index>
-    <titles>City Dark</titles>
-    <authors>Roger A. Canaff</authors>
-    <regular_prices>$21.91</regular_prices>
-    <release_dates>10-01-22</release_dates>
-  </row>
-  <row>
-    <index>1</index>
     <titles>Atomic Habits</titles>
     <authors>James Clear</authors>
     <regular_prices>$16.72</regular_prices>
     <release_dates>10-16-18</release_dates>
   </row>
   <row>
-    <index>2</index>
-    <titles>Spare</titles>
-    <authors>Prince Harry The Duke of Sussex</authors>
-    <regular_prices>$24.95</regular_prices>
-    <release_dates>01-10-23</release_dates>
-  </row>
-  <row>
-    <index>3</index>
-    <titles>The Covenant of Water</titles>
-    <authors>Abraham Verghese</authors>
-    <regular_prices>$41.99</regular_prices>
+    <index>1</index>
+    <titles>Fourth Wing</titles>
+    <authors>Rebecca Yarros</authors>
+    <regular_prices>$38.49</regular_prices>
     <release_dates>05-02-23</release_dates>
   </row>
   <row>
-    <index>4</index>
-    <titles>Happy Place</titles>
-    <authors>Emily Henry</authors>
-    <regular_prices>$31.50</regular_prices>
-    <release_dates>04-25-23</release_dates>
-  </row>
-  <row>
-    <index>5</index>
-    <titles>The Last Thing He Told Me</titles>
-    <authors>Laura Dave</authors>
-    <regular_prices>$18.49</regular_prices>
-    <release_dates>05-04-21</release_dates>
-  </row>
-  <row>
-    <index>6</index>
+    <index>2</index>
     <titles>Lessons in Chemistry</titles>
     <authors>Bonnie Garmus</authors>
     <regular_prices>$17.92</regular_prices>
     <release_dates>04-05-22</release_dates>
   </row>
   <row>
-    <index>7</index>
-    <titles>Greenlights</titles>
-    <authors>Matthew McConaughey</authors>
-    <regular_prices>$18.49</regular_prices>
-    <release_dates>10-20-20</release_dates>
+    <index>3</index>
+    <titles>The Magician's Daughter</titles>
+    <authors>H. G. Parry</authors>
+    <regular_prices>$36.50</regular_prices>
+    <release_dates>02-28-23</release_dates>
   </row>
   <row>
-    <index>8</index>
+    <index>4</index>
     <titles>Outlive</titles>
     <authors>Peter Attia MD, Bill Gifford - contributor</authors>
     <regular_prices>$35.00</regular_prices>
     <release_dates>03-28-23</release_dates>
   </row>
   <row>
-    <index>9</index>
-    <titles>The Making of Another Major Motion Picture Masterpiece</titles>
-    <authors>Tom Hanks</authors>
-    <regular_prices>$38.50</regular_prices>
-    <release_dates>05-09-23</release_dates>
+    <index>5</index>
+    <titles>The Covenant of Water</titles>
+    <authors>Abraham Verghese</authors>
+    <regular_prices>$41.99</regular_prices>
+    <release_dates>05-02-23</release_dates>
   </row>
   <row>
-    <index>10</index>
-    <titles>Remarkably Bright Creatures</titles>
-    <authors>Shelby Van Pelt</authors>
-    <regular_prices>$21.42</regular_prices>
-    <release_dates>05-03-22</release_dates>
+    <index>6</index>
+    <titles>The Five-Star Weekend</titles>
+    <authors>Elin Hilderbrand</authors>
+    <regular_prices>$36.50</regular_prices>
+    <release_dates>06-13-23</release_dates>
   </row>
   <row>
-    <index>11</index>
-    <titles>Simply Lies</titles>
-    <authors>David Baldacci</authors>
-    <regular_prices>$31.93</regular_prices>
-    <release_dates>04-18-23</release_dates>
-  </row>
-  <row>
-    <index>12</index>
-    <titles>The Light We Carry</titles>
-    <authors>Michelle Obama</authors>
-    <regular_prices>$35.00</regular_prices>
-    <release_dates>11-15-22</release_dates>
-  </row>
-  <row>
-    <index>13</index>
-    <titles>The Subtle Art of Not Giving a F*ck</titles>
-    <authors>Mark Manson</authors>
-    <regular_prices>$17.92</regular_prices>
-    <release_dates>09-13-16</release_dates>
-  </row>
-  <row>
-    <index>14</index>
-    <titles>The Ballad of Songbirds and Snakes</titles>
-    <authors>Suzanne Collins</authors>
-    <regular_prices>$18.26</regular_prices>
-    <release_dates>05-19-20</release_dates>
-  </row>
-  <row>
-    <index>15</index>
-    <titles>It Ends with Us</titles>
-    <authors>Colleen Hoover</authors>
-    <regular_prices>$13.49</regular_prices>
-    <release_dates>08-02-16</release_dates>
-  </row>
-  <row>
-    <index>16</index>
+    <index>7</index>
     <titles>Demon Copperhead</titles>
     <authors>Barbara Kingsolver</authors>
     <regular_prices>$34.90</regular_prices>
     <release_dates>10-18-22</release_dates>
   </row>
   <row>
-    <index>17</index>
-    <titles>The Seven Husbands of Evelyn Hugo</titles>
-    <authors>Taylor Jenkins Reid</authors>
-    <regular_prices>$16.72</regular_prices>
-    <release_dates>06-13-17</release_dates>
+    <index>8</index>
+    <titles>Identity</titles>
+    <authors>Nora Roberts</authors>
+    <regular_prices>$31.18</regular_prices>
+    <release_dates>05-23-23</release_dates>
   </row>
   <row>
-    <index>18</index>
-    <titles>Verity</titles>
-    <authors>Colleen Hoover</authors>
-    <regular_prices>$17.35</regular_prices>
-    <release_dates>05-07-19</release_dates>
-  </row>
-  <row>
-    <index>19</index>
-    <titles>Hello Beautiful</titles>
-    <authors>Ann Napolitano</authors>
-    <regular_prices>$31.50</regular_prices>
-    <release_dates>03-14-23</release_dates>
-  </row>
-  <row>
-    <index>20</index>
-    <titles>I'm Glad My Mom Died</titles>
-    <authors>Jennette McCurdy</authors>
-    <regular_prices>$13.99</regular_prices>
-    <release_dates>08-09-22</release_dates>
-  </row>
-  <row>
-    <index>21</index>
-    <titles>Harry Potter and the Sorcerer's Stone, Book 1</titles>
-    <authors>J.K. Rowling</authors>
-    <regular_prices>$29.99</regular_prices>
-    <release_dates>11-20-15</release_dates>
-  </row>
-  <row>
-    <index>22</index>
-    <titles>I Will Teach You to Be Rich</titles>
-    <authors>Ramit Sethi</authors>
-    <regular_prices>$30.40</regular_prices>
-    <release_dates>05-14-19</release_dates>
-  </row>
-  <row>
-    <index>23</index>
-    <titles>Can't Hurt Me</titles>
-    <authors>David Goggins</authors>
-    <regular_prices>$21.70</regular_prices>
-    <release_dates>11-28-18</release_dates>
-  </row>
-  <row>
-    <index>24</index>
-    <titles>A Court of Thorns and Roses</titles>
-    <authors>Sarah J. Maas</authors>
-    <regular_prices>$27.39</regular_prices>
-    <release_dates>05-05-15</release_dates>
-  </row>
-  <row>
-    <index>25</index>
-    <titles>The Housemaid</titles>
-    <authors>Freida McFadden</authors>
-    <regular_prices>$17.35</regular_prices>
-    <release_dates>04-26-22</release_dates>
-  </row>
-  <row>
-    <index>26</index>
+    <index>9</index>
     <titles>Wool</titles>
     <authors>Hugh Howey</authors>
     <regular_prices>$36.37</regular_prices>
     <release_dates>03-07-23</release_dates>
   </row>
   <row>
-    <index>27</index>
+    <index>10</index>
+    <titles>The Housemaid</titles>
+    <authors>Freida McFadden</authors>
+    <regular_prices>$17.35</regular_prices>
+    <release_dates>04-26-22</release_dates>
+  </row>
+  <row>
+    <index>11</index>
+    <titles>It Ends with Us</titles>
+    <authors>Colleen Hoover</authors>
+    <regular_prices>$13.49</regular_prices>
+    <release_dates>08-02-16</release_dates>
+  </row>
+  <row>
+    <index>12</index>
     <titles>Hábitos atómicos</titles>
     <authors>James Clear</authors>
     <regular_prices>$18.67</regular_prices>
     <release_dates>09-30-20</release_dates>
   </row>
   <row>
-    <index>28</index>
-    <titles>Dune</titles>
-    <authors>Frank Herbert</authors>
-    <regular_prices>$34.90</regular_prices>
-    <release_dates>12-31-06</release_dates>
+    <index>13</index>
+    <titles>I'm Glad My Mom Died</titles>
+    <authors>Jennette McCurdy</authors>
+    <regular_prices>$13.99</regular_prices>
+    <release_dates>08-09-22</release_dates>
   </row>
   <row>
-    <index>29</index>
-    <titles>Never Finished</titles>
-    <authors>David Goggins</authors>
-    <regular_prices>$21.70</regular_prices>
-    <release_dates>12-06-22</release_dates>
-  </row>
-  <row>
-    <index>30</index>
-    <titles>The Wager</titles>
-    <authors>David Grann</authors>
-    <regular_prices>$31.50</regular_prices>
-    <release_dates>04-18-23</release_dates>
-  </row>
-  <row>
-    <index>31</index>
-    <titles>It Starts with Us</titles>
-    <authors>Colleen Hoover</authors>
-    <regular_prices>$23.62</regular_prices>
-    <release_dates>10-18-22</release_dates>
-  </row>
-  <row>
-    <index>32</index>
-    <titles>The Beginning of Infinity</titles>
-    <authors>David Deutsch</authors>
-    <regular_prices>$25.55</regular_prices>
-    <release_dates>08-18-11</release_dates>
-  </row>
-  <row>
-    <index>33</index>
-    <titles>The Body Keeps the Score</titles>
-    <authors>Bessel A. van der Kolk</authors>
-    <regular_prices>$20.42</regular_prices>
-    <release_dates>02-16-21</release_dates>
-  </row>
-  <row>
-    <index>34</index>
-    <titles>The 23rd Midnight</titles>
-    <authors>James Patterson, Maxine Paetro</authors>
-    <regular_prices>$28.51</regular_prices>
-    <release_dates>05-01-23</release_dates>
-  </row>
-  <row>
-    <index>35</index>
-    <titles>Only the Dead</titles>
-    <authors>Jack Carr</authors>
-    <regular_prices>$28.34</regular_prices>
-    <release_dates>05-16-23</release_dates>
-  </row>
-  <row>
-    <index>36</index>
-    <titles>Fairy Tale</titles>
-    <authors>Stephen King</authors>
-    <regular_prices>$26.90</regular_prices>
-    <release_dates>09-06-22</release_dates>
-  </row>
-  <row>
-    <index>37</index>
-    <titles>Tremendous</titles>
-    <authors>Joey "Coco" Diaz</authors>
-    <regular_prices>$20.99</regular_prices>
-    <release_dates>05-02-23</release_dates>
-  </row>
-  <row>
-    <index>38</index>
-    <titles>Mad Honey</titles>
-    <authors>Jodi Picoult, Jennifer Finney Boylan</authors>
-    <regular_prices>$23.90</regular_prices>
-    <release_dates>10-04-22</release_dates>
-  </row>
-  <row>
-    <index>39</index>
-    <titles>12 Rules for Life</titles>
-    <authors>Jordan B. Peterson, Norman Doidge MD</authors>
-    <regular_prices>$23.90</regular_prices>
-    <release_dates>01-23-18</release_dates>
-  </row>
-  <row>
-    <index>40</index>
-    <titles>Tomorrow, and Tomorrow, and Tomorrow</titles>
-    <authors>Gabrielle Zevin</authors>
-    <regular_prices>$17.92</regular_prices>
-    <release_dates>07-05-22</release_dates>
-  </row>
-  <row>
-    <index>41</index>
+    <index>14</index>
     <titles>Harry Potter and the Chamber of Secrets, Book 2</titles>
     <authors>J.K. Rowling</authors>
     <regular_prices>$29.99</regular_prices>
     <release_dates>11-20-15</release_dates>
   </row>
   <row>
-    <index>42</index>
-    <titles>How to Win Friends &amp; Influence People</titles>
-    <authors>Dale Carnegie</authors>
-    <regular_prices>$16.72</regular_prices>
-    <release_dates>09-16-04</release_dates>
+    <index>15</index>
+    <titles>Can't Hurt Me</titles>
+    <authors>David Goggins</authors>
+    <regular_prices>$21.70</regular_prices>
+    <release_dates>11-28-18</release_dates>
   </row>
   <row>
-    <index>43</index>
-    <titles>The Mountain Is You</titles>
-    <authors>Brianna Wiest</authors>
+    <index>16</index>
+    <titles>Verity</titles>
+    <authors>Colleen Hoover</authors>
     <regular_prices>$17.35</regular_prices>
-    <release_dates>04-01-22</release_dates>
+    <release_dates>05-07-19</release_dates>
   </row>
   <row>
-    <index>44</index>
-    <titles>The Psychology of Money</titles>
-    <authors>Morgan Housel</authors>
-    <regular_prices>$17.35</regular_prices>
-    <release_dates>09-08-20</release_dates>
+    <index>17</index>
+    <titles>The Subtle Art of Not Giving a F*ck</titles>
+    <authors>Mark Manson</authors>
+    <regular_prices>$17.92</regular_prices>
+    <release_dates>09-13-16</release_dates>
   </row>
   <row>
-    <index>45</index>
-    <titles>Project Hail Mary</titles>
-    <authors>Andy Weir</authors>
-    <regular_prices>$26.05</regular_prices>
-    <release_dates>05-04-21</release_dates>
+    <index>18</index>
+    <titles>Remarkably Bright Creatures</titles>
+    <authors>Shelby Van Pelt</authors>
+    <regular_prices>$21.42</regular_prices>
+    <release_dates>05-03-22</release_dates>
   </row>
   <row>
-    <index>46</index>
-    <titles>A Court of Mist and Fury</titles>
+    <index>19</index>
+    <titles>A Court of Thorns and Roses</titles>
     <authors>Sarah J. Maas</authors>
-    <regular_prices>$36.53</regular_prices>
-    <release_dates>05-03-16</release_dates>
+    <regular_prices>$27.39</regular_prices>
+    <release_dates>05-05-15</release_dates>
   </row>
   <row>
-    <index>47</index>
-    <titles>Daisy Jones &amp; The Six</titles>
+    <index>20</index>
+    <titles>Greenlights</titles>
+    <authors>Matthew McConaughey</authors>
+    <regular_prices>$18.49</regular_prices>
+    <release_dates>10-20-20</release_dates>
+  </row>
+  <row>
+    <index>21</index>
+    <titles>The Seven Husbands of Evelyn Hugo</titles>
     <authors>Taylor Jenkins Reid</authors>
-    <regular_prices>$15.74</regular_prices>
-    <release_dates>03-05-19</release_dates>
+    <regular_prices>$16.72</regular_prices>
+    <release_dates>06-13-17</release_dates>
   </row>
   <row>
-    <index>48</index>
-    <titles>He Who Fights with Monsters 9</titles>
-    <authors>Shirtaloon, Travis Deverell</authors>
-    <regular_prices>$59.99</regular_prices>
-    <release_dates>04-18-23</release_dates>
+    <index>22</index>
+    <titles>Too Late</titles>
+    <authors>Colleen Hoover</authors>
+    <regular_prices>$34.95</regular_prices>
+    <release_dates>06-27-23</release_dates>
   </row>
   <row>
-    <index>49</index>
-    <titles>What Happens Next</titles>
-    <authors>Christina Suzann Nelson</authors>
-    <regular_prices>$21.30</regular_prices>
-    <release_dates>01-17-23</release_dates>
+    <index>23</index>
+    <titles>Spare</titles>
+    <authors>Prince Harry The Duke of Sussex</authors>
+    <regular_prices>$24.95</regular_prices>
+    <release_dates>01-10-23</release_dates>
   </row>
   <row>
-    <index>50</index>
+    <index>24</index>
+    <titles>Killers of the Flower Moon</titles>
+    <authors>David Grann</authors>
+    <regular_prices>$16.72</regular_prices>
+    <release_dates>04-18-17</release_dates>
+  </row>
+  <row>
+    <index>25</index>
+    <titles>Haunting Adeline</titles>
+    <authors>H. D. Carlton</authors>
+    <regular_prices>$21.70</regular_prices>
+    <release_dates>08-29-22</release_dates>
+  </row>
+  <row>
+    <index>26</index>
     <titles>Harry Potter and the Prisoner of Azkaban, Book 3</titles>
     <authors>J.K. Rowling</authors>
     <regular_prices>$29.99</regular_prices>
     <release_dates>11-20-15</release_dates>
   </row>
   <row>
-    <index>51</index>
-    <titles>Things We Never Got Over</titles>
-    <authors>Lucy Score</authors>
-    <regular_prices>$21.70</regular_prices>
-    <release_dates>03-01-22</release_dates>
+    <index>27</index>
+    <titles>True Conviction</titles>
+    <authors>James P. Sumner</authors>
+    <regular_prices>$19.95</regular_prices>
+    <release_dates>02-16-23</release_dates>
   </row>
   <row>
-    <index>52</index>
-    <titles>I Will Find You</titles>
-    <authors>Harlan Coben</authors>
-    <regular_prices>$30.09</regular_prices>
+    <index>28</index>
+    <titles>How to Talk to Anyone</titles>
+    <authors>Leil Lowndes</authors>
+    <regular_prices>$14.74</regular_prices>
+    <release_dates>09-01-15</release_dates>
+  </row>
+  <row>
+    <index>29</index>
+    <titles>The Real Anthony Fauci</titles>
+    <authors>Robert F. Kennedy Jr.</authors>
+    <regular_prices>$26.05</regular_prices>
+    <release_dates>11-16-21</release_dates>
+  </row>
+  <row>
+    <index>30</index>
+    <titles>The Mountain Is You</titles>
+    <authors>Brianna Wiest</authors>
+    <regular_prices>$17.35</regular_prices>
+    <release_dates>04-01-22</release_dates>
+  </row>
+  <row>
+    <index>31</index>
+    <titles>Fairy Tale</titles>
+    <authors>Stephen King</authors>
+    <regular_prices>$26.90</regular_prices>
+    <release_dates>09-06-22</release_dates>
+  </row>
+  <row>
+    <index>32</index>
+    <titles>Never Finished</titles>
+    <authors>David Goggins</authors>
+    <regular_prices>$21.70</regular_prices>
+    <release_dates>12-06-22</release_dates>
+  </row>
+  <row>
+    <index>33</index>
+    <titles>Happy Place</titles>
+    <authors>Emily Henry</authors>
+    <regular_prices>$31.50</regular_prices>
+    <release_dates>04-25-23</release_dates>
+  </row>
+  <row>
+    <index>34</index>
+    <titles>It Starts with Us</titles>
+    <authors>Colleen Hoover</authors>
+    <regular_prices>$23.62</regular_prices>
+    <release_dates>10-18-22</release_dates>
+  </row>
+  <row>
+    <index>35</index>
+    <titles>The Last Thing He Told Me</titles>
+    <authors>Laura Dave</authors>
+    <regular_prices>$18.49</regular_prices>
+    <release_dates>05-04-21</release_dates>
+  </row>
+  <row>
+    <index>36</index>
+    <titles>The Body Keeps the Score</titles>
+    <authors>Bessel A. van der Kolk</authors>
+    <regular_prices>$20.42</regular_prices>
+    <release_dates>02-16-21</release_dates>
+  </row>
+  <row>
+    <index>37</index>
+    <titles>Project Hail Mary</titles>
+    <authors>Andy Weir</authors>
+    <regular_prices>$26.05</regular_prices>
+    <release_dates>05-04-21</release_dates>
+  </row>
+  <row>
+    <index>38</index>
+    <titles>Shift</titles>
+    <authors>Hugh Howey</authors>
+    <regular_prices>$36.37</regular_prices>
+    <release_dates>03-28-23</release_dates>
+  </row>
+  <row>
+    <index>39</index>
+    <titles>Hello Beautiful</titles>
+    <authors>Ann Napolitano</authors>
+    <regular_prices>$31.50</regular_prices>
     <release_dates>03-14-23</release_dates>
   </row>
   <row>
-    <index>53</index>
+    <index>40</index>
     <titles>Harry Potter and the Goblet of Fire, Book 4</titles>
     <authors>J.K. Rowling</authors>
     <regular_prices>$44.99</regular_prices>
     <release_dates>11-20-15</release_dates>
+  </row>
+  <row>
+    <index>41</index>
+    <titles>How to Win Friends &amp; Influence People</titles>
+    <authors>Dale Carnegie</authors>
+    <regular_prices>$16.72</regular_prices>
+    <release_dates>09-16-04</release_dates>
+  </row>
+  <row>
+    <index>42</index>
+    <titles>A Court of Mist and Fury</titles>
+    <authors>Sarah J. Maas</authors>
+    <regular_prices>$36.53</regular_prices>
+    <release_dates>05-03-16</release_dates>
+  </row>
+  <row>
+    <index>43</index>
+    <titles>Playground</titles>
+    <authors>Aron Beauregard</authors>
+    <regular_prices>$17.35</regular_prices>
+    <release_dates>12-19-22</release_dates>
+  </row>
+  <row>
+    <index>44</index>
+    <titles>12 Rules for Life</titles>
+    <authors>Jordan B. Peterson, Norman Doidge MD</authors>
+    <regular_prices>$23.90</regular_prices>
+    <release_dates>01-23-18</release_dates>
+  </row>
+  <row>
+    <index>45</index>
+    <titles>The Psychology of Money</titles>
+    <authors>Morgan Housel</authors>
+    <regular_prices>$17.35</regular_prices>
+    <release_dates>09-08-20</release_dates>
+  </row>
+  <row>
+    <index>46</index>
+    <titles>The Wager</titles>
+    <authors>David Grann</authors>
+    <regular_prices>$31.50</regular_prices>
+    <release_dates>04-18-23</release_dates>
+  </row>
+  <row>
+    <index>47</index>
+    <titles>Dune</titles>
+    <authors>Frank Herbert</authors>
+    <regular_prices>$34.90</regular_prices>
+    <release_dates>12-31-06</release_dates>
+  </row>
+  <row>
+    <index>48</index>
+    <titles>Harry Potter and the Order of the Phoenix, Book 5</titles>
+    <authors>J.K. Rowling</authors>
+    <regular_prices>$44.99</regular_prices>
+    <release_dates>11-20-15</release_dates>
+  </row>
+  <row>
+    <index>49</index>
+    <titles>Mad Honey</titles>
+    <authors>Jodi Picoult, Jennifer Finney Boylan</authors>
+    <regular_prices>$23.90</regular_prices>
+    <release_dates>10-04-22</release_dates>
+  </row>
+  <row>
+    <index>50</index>
+    <titles>Only the Dead</titles>
+    <authors>Jack Carr</authors>
+    <regular_prices>$28.34</regular_prices>
+    <release_dates>05-16-23</release_dates>
+  </row>
+  <row>
+    <index>51</index>
+    <titles>Red, White &amp; Royal Blue</titles>
+    <authors>Casey McQuiston</authors>
+    <regular_prices>$20.90</regular_prices>
+    <release_dates>05-14-19</release_dates>
+  </row>
+  <row>
+    <index>52</index>
+    <titles>Harry Potter and the Half-Blood Prince, Book 6</titles>
+    <authors>J.K. Rowling</authors>
+    <regular_prices>$44.99</regular_prices>
+    <release_dates>11-20-15</release_dates>
+  </row>
+  <row>
+    <index>53</index>
+    <titles>A Court of Wings and Ruin</titles>
+    <authors>Sarah J. Maas</authors>
+    <regular_prices>$27.39</regular_prices>
+    <release_dates>05-02-17</release_dates>
   </row>
   <row>
     <index>54</index>
@@ -387,31 +387,31 @@
   </row>
   <row>
     <index>55</index>
+    <titles>Tomorrow, and Tomorrow, and Tomorrow</titles>
+    <authors>Gabrielle Zevin</authors>
+    <regular_prices>$17.92</regular_prices>
+    <release_dates>07-05-22</release_dates>
+  </row>
+  <row>
+    <index>56</index>
+    <titles>The Chronicles of Narnia Complete Audio Collection</titles>
+    <authors>C. S. Lewis</authors>
+    <regular_prices>$47.90</regular_prices>
+    <release_dates>12-27-19</release_dates>
+  </row>
+  <row>
+    <index>57</index>
     <titles>The Four Agreements</titles>
     <authors>don Miguel Ruiz</authors>
     <regular_prices>$10.93</regular_prices>
     <release_dates>01-27-05</release_dates>
   </row>
   <row>
-    <index>56</index>
-    <titles>Never Split the Difference</titles>
-    <authors>Chris Voss</authors>
-    <regular_prices>$23.90</regular_prices>
-    <release_dates>05-17-16</release_dates>
-  </row>
-  <row>
-    <index>57</index>
-    <titles>Harry Potter and the Half-Blood Prince, Book 6</titles>
-    <authors>J.K. Rowling</authors>
-    <regular_prices>$44.99</regular_prices>
-    <release_dates>11-20-15</release_dates>
-  </row>
-  <row>
     <index>58</index>
-    <titles>A Court of Wings and Ruin</titles>
-    <authors>Sarah J. Maas</authors>
-    <regular_prices>$27.39</regular_prices>
-    <release_dates>05-02-17</release_dates>
+    <titles>The Silent Patient</titles>
+    <authors>Alex Michaelides</authors>
+    <regular_prices>$20.90</regular_prices>
+    <release_dates>02-05-19</release_dates>
   </row>
   <row>
     <index>59</index>
@@ -422,282 +422,282 @@
   </row>
   <row>
     <index>60</index>
-    <titles>Someone Else's Shoes</titles>
-    <authors>Jojo Moyes</authors>
-    <regular_prices>$35.00</regular_prices>
-    <release_dates>02-07-23</release_dates>
-  </row>
-  <row>
-    <index>61</index>
-    <titles>Harry Potter and the Order of the Phoenix, Book 5</titles>
-    <authors>J.K. Rowling</authors>
-    <regular_prices>$44.99</regular_prices>
-    <release_dates>11-20-15</release_dates>
-  </row>
-  <row>
-    <index>62</index>
-    <titles>The Fireballer</titles>
-    <authors>Mark Stevens</authors>
-    <regular_prices>$26.17</regular_prices>
-    <release_dates>01-01-23</release_dates>
-  </row>
-  <row>
-    <index>63</index>
-    <titles>Finding Me</titles>
-    <authors>Viola Davis</authors>
-    <regular_prices>$21.42</regular_prices>
-    <release_dates>04-26-22</release_dates>
-  </row>
-  <row>
-    <index>64</index>
-    <titles>Haunting Adeline</titles>
-    <authors>H. D. Carlton</authors>
-    <regular_prices>$21.70</regular_prices>
-    <release_dates>08-29-22</release_dates>
-  </row>
-  <row>
-    <index>65</index>
-    <titles>Look for Me There</titles>
-    <authors>Luke Russert</authors>
-    <regular_prices>$31.93</regular_prices>
-    <release_dates>05-02-23</release_dates>
-  </row>
-  <row>
-    <index>66</index>
-    <titles>Think and Grow Rich</titles>
-    <authors>Napoleon Hill</authors>
-    <regular_prices>$24.95</regular_prices>
-    <release_dates>10-16-07</release_dates>
-  </row>
-  <row>
-    <index>67</index>
-    <titles>The Creative Act</titles>
-    <authors>Rick Rubin</authors>
-    <regular_prices>$31.50</regular_prices>
-    <release_dates>01-17-23</release_dates>
-  </row>
-  <row>
-    <index>68</index>
-    <titles>The Silent Patient</titles>
-    <authors>Alex Michaelides</authors>
-    <regular_prices>$20.90</regular_prices>
-    <release_dates>02-05-19</release_dates>
-  </row>
-  <row>
-    <index>69</index>
-    <titles>Glucose Revolution</titles>
-    <authors>Jessie Inchauspe</authors>
-    <regular_prices>$13.97</regular_prices>
-    <release_dates>04-05-22</release_dates>
-  </row>
-  <row>
-    <index>70</index>
-    <titles>He Who Fights with Monsters: A LitRPG Adventure</titles>
-    <authors>Shirtaloon, Travis Deverell</authors>
-    <regular_prices>$52.19</regular_prices>
-    <release_dates>03-09-21</release_dates>
-  </row>
-  <row>
-    <index>71</index>
-    <titles>Extreme Ownership</titles>
-    <authors>Jocko Willink, Leif Babin</authors>
-    <regular_prices>$15.22</regular_prices>
-    <release_dates>10-19-15</release_dates>
-  </row>
-  <row>
-    <index>72</index>
-    <titles>The Wisdom of the Bullfrog</titles>
-    <authors>Admiral William H. McRaven</authors>
-    <regular_prices>$21.67</regular_prices>
-    <release_dates>04-04-23</release_dates>
-  </row>
-  <row>
-    <index>73</index>
-    <titles>Rich Dad Poor Dad: 20th Anniversary Edition</titles>
-    <authors>Robert T. Kiyosaki</authors>
-    <regular_prices>$11.30</regular_prices>
-    <release_dates>05-14-19</release_dates>
-  </row>
-  <row>
-    <index>74</index>
-    <titles>Horse</titles>
-    <authors>Geraldine Brooks</authors>
-    <regular_prices>$20.90</regular_prices>
-    <release_dates>06-14-22</release_dates>
-  </row>
-  <row>
-    <index>75</index>
-    <titles>Soul Boom</titles>
-    <authors>Rainn Wilson</authors>
-    <regular_prices>$31.93</regular_prices>
-    <release_dates>04-25-23</release_dates>
-  </row>
-  <row>
-    <index>76</index>
     <titles>A Court of Silver Flames</titles>
     <authors>Sarah J. Maas</authors>
     <regular_prices>$36.53</regular_prices>
     <release_dates>02-16-21</release_dates>
   </row>
   <row>
-    <index>77</index>
-    <titles>The Chronicles of Narnia Complete Audio Collection</titles>
-    <authors>C. S. Lewis</authors>
-    <regular_prices>$47.90</regular_prices>
-    <release_dates>12-27-19</release_dates>
-  </row>
-  <row>
-    <index>78</index>
-    <titles>The Housemaid's Secret</titles>
-    <authors>Freida McFadden</authors>
-    <regular_prices>$17.35</regular_prices>
-    <release_dates>02-20-23</release_dates>
-  </row>
-  <row>
-    <index>79</index>
-    <titles>The Ferryman</titles>
-    <authors>Justin Cronin</authors>
-    <regular_prices>$42.00</regular_prices>
-    <release_dates>05-02-23</release_dates>
-  </row>
-  <row>
-    <index>80</index>
-    <titles>From the World of Percy Jackson: Sun and the Star</titles>
-    <authors>Rick Riordan, Mark Oshiro</authors>
-    <regular_prices>$19.59</regular_prices>
-    <release_dates>05-02-23</release_dates>
-  </row>
-  <row>
-    <index>81</index>
-    <titles>Defiance of the Fall 9</titles>
-    <authors>TheFirstDefier, JF Brink</authors>
-    <regular_prices>$29.95</regular_prices>
-    <release_dates>04-26-23</release_dates>
-  </row>
-  <row>
-    <index>82</index>
-    <titles>The Lion: Son of the Forest</titles>
-    <authors>Mike Brooks</authors>
-    <regular_prices>$32.71</regular_prices>
-    <release_dates>04-22-23</release_dates>
-  </row>
-  <row>
-    <index>83</index>
-    <titles>Homecoming</titles>
-    <authors>Kate Morton</authors>
-    <regular_prices>$19.09</regular_prices>
-    <release_dates>04-04-23</release_dates>
-  </row>
-  <row>
-    <index>84</index>
-    <titles>Atlas of the Heart</titles>
-    <authors>Brené Brown</authors>
+    <index>61</index>
+    <titles>Never Split the Difference</titles>
+    <authors>Chris Voss</authors>
     <regular_prices>$23.90</regular_prices>
-    <release_dates>02-14-22</release_dates>
+    <release_dates>05-17-16</release_dates>
   </row>
   <row>
-    <index>85</index>
-    <titles>How to Talk to Anyone</titles>
-    <authors>Leil Lowndes</authors>
-    <regular_prices>$14.74</regular_prices>
-    <release_dates>09-01-15</release_dates>
+    <index>62</index>
+    <titles>A Flicker in the Dark</titles>
+    <authors>Stacy Willingham</authors>
+    <regular_prices>$15.22</regular_prices>
+    <release_dates>01-11-22</release_dates>
   </row>
   <row>
-    <index>86</index>
-    <titles>Where the Crawdads Sing</titles>
-    <authors>Delia Owens</authors>
-    <regular_prices>$17.92</regular_prices>
-    <release_dates>08-14-18</release_dates>
-  </row>
-  <row>
-    <index>87</index>
-    <titles>Fourth Wing</titles>
-    <authors>Rebecca Yarros</authors>
-    <regular_prices>$38.49</regular_prices>
-    <release_dates>05-02-23</release_dates>
-  </row>
-  <row>
-    <index>88</index>
-    <titles>The 7 Habits of Highly Effective People</titles>
-    <authors>Stephen R. Covey</authors>
-    <regular_prices>$16.95</regular_prices>
-    <release_dates>12-28-03</release_dates>
-  </row>
-  <row>
-    <index>89</index>
+    <index>63</index>
     <titles>Throne of Glass</titles>
     <authors>Sarah J. Maas</authors>
     <regular_prices>$17.64</regular_prices>
     <release_dates>01-28-21</release_dates>
   </row>
   <row>
-    <index>90</index>
-    <titles>Ugly Love</titles>
-    <authors>Colleen Hoover</authors>
-    <regular_prices>$13.99</regular_prices>
-    <release_dates>08-05-14</release_dates>
+    <index>64</index>
+    <titles>The Creative Act</titles>
+    <authors>Rick Rubin</authors>
+    <regular_prices>$31.50</regular_prices>
+    <release_dates>01-17-23</release_dates>
   </row>
   <row>
-    <index>91</index>
+    <index>65</index>
+    <titles>American Prometheus</titles>
+    <authors>Kai Bird, Martin J. Sherwin</authors>
+    <regular_prices>$30.42</regular_prices>
+    <release_dates>03-28-07</release_dates>
+  </row>
+  <row>
+    <index>66</index>
+    <titles>Extreme Ownership</titles>
+    <authors>Jocko Willink, Leif Babin</authors>
+    <regular_prices>$15.22</regular_prices>
+    <release_dates>10-19-15</release_dates>
+  </row>
+  <row>
+    <index>67</index>
     <titles>The Nightingale</titles>
     <authors>Kristin Hannah</authors>
     <regular_prices>$25.90</regular_prices>
     <release_dates>02-03-15</release_dates>
   </row>
   <row>
-    <index>92</index>
-    <titles>The Boys from Biloxi</titles>
-    <authors>John Grisham</authors>
-    <regular_prices>$35.00</regular_prices>
-    <release_dates>10-18-22</release_dates>
+    <index>68</index>
+    <titles>The Silmarillion</titles>
+    <authors>J. R. R. Tolkien, Christopher Tolkien</authors>
+    <regular_prices>$21.81</regular_prices>
+    <release_dates>06-22-23</release_dates>
   </row>
   <row>
-    <index>93</index>
-    <titles>Abyss</titles>
-    <authors>Nicoli Gonnella</authors>
-    <regular_prices>$29.95</regular_prices>
-    <release_dates>05-03-23</release_dates>
+    <index>69</index>
+    <titles>Yellowface</titles>
+    <authors>R. F. Kuang</authors>
+    <regular_prices>$31.93</regular_prices>
+    <release_dates>05-16-23</release_dates>
   </row>
   <row>
-    <index>94</index>
+    <index>70</index>
+    <titles>Rich Dad Poor Dad: 20th Anniversary Edition</titles>
+    <authors>Robert T. Kiyosaki</authors>
+    <regular_prices>$11.30</regular_prices>
+    <release_dates>05-14-19</release_dates>
+  </row>
+  <row>
+    <index>71</index>
+    <titles>Dust</titles>
+    <authors>Hugh Howey</authors>
+    <regular_prices>$29.37</regular_prices>
+    <release_dates>04-11-23</release_dates>
+  </row>
+  <row>
+    <index>72</index>
+    <titles>The Only One Left</titles>
+    <authors>Riley Sager</authors>
+    <regular_prices>$31.50</regular_prices>
+    <release_dates>06-20-23</release_dates>
+  </row>
+  <row>
+    <index>73</index>
+    <titles>The Housemaid's Secret</titles>
+    <authors>Freida McFadden</authors>
+    <regular_prices>$17.35</regular_prices>
+    <release_dates>02-20-23</release_dates>
+  </row>
+  <row>
+    <index>74</index>
+    <titles>The Terminal List</titles>
+    <authors>Jack Carr</authors>
+    <regular_prices>$18.49</regular_prices>
+    <release_dates>03-06-18</release_dates>
+  </row>
+  <row>
+    <index>75</index>
+    <titles>Tell Me Everything</titles>
+    <authors>Minka Kelly</authors>
+    <regular_prices>$18.89</regular_prices>
+    <release_dates>05-02-23</release_dates>
+  </row>
+  <row>
+    <index>76</index>
+    <titles>Lady Tan's Circle of Women</titles>
+    <authors>Lisa See</authors>
+    <regular_prices>$23.62</regular_prices>
+    <release_dates>06-06-23</release_dates>
+  </row>
+  <row>
+    <index>77</index>
+    <titles>Breaking the Habit of Being Yourself</titles>
+    <authors>Joe Dispenza</authors>
+    <regular_prices>$21.70</regular_prices>
+    <release_dates>03-26-20</release_dates>
+  </row>
+  <row>
+    <index>78</index>
+    <titles>The Hitchhiker's Guide to the Galaxy</titles>
+    <authors>Douglas Adams</authors>
+    <regular_prices>$13.99</regular_prices>
+    <release_dates>04-28-05</release_dates>
+  </row>
+  <row>
+    <index>79</index>
+    <titles>Think and Grow Rich</titles>
+    <authors>Napoleon Hill</authors>
+    <regular_prices>$24.95</regular_prices>
+    <release_dates>10-16-07</release_dates>
+  </row>
+  <row>
+    <index>80</index>
+    <titles>The Alchemist</titles>
+    <authors>Paulo Coelho</authors>
+    <regular_prices>$17.24</regular_prices>
+    <release_dates>12-26-04</release_dates>
+  </row>
+  <row>
+    <index>81</index>
+    <titles>Finding Me</titles>
+    <authors>Viola Davis</authors>
+    <regular_prices>$21.42</regular_prices>
+    <release_dates>04-26-22</release_dates>
+  </row>
+  <row>
+    <index>82</index>
+    <titles>The Perfect Marriage</titles>
+    <authors>Jeneva Rose</authors>
+    <regular_prices>$30.44</regular_prices>
+    <release_dates>12-29-20</release_dates>
+  </row>
+  <row>
+    <index>83</index>
+    <titles>House of Earth and Blood</titles>
+    <authors>Sarah J. Maas</authors>
+    <regular_prices>$43.45</regular_prices>
+    <release_dates>03-03-20</release_dates>
+  </row>
+  <row>
+    <index>84</index>
     <titles>The Power of Now</titles>
     <authors>Eckhart Tolle</authors>
     <regular_prices>$18.24</regular_prices>
     <release_dates>12-31-00</release_dates>
   </row>
   <row>
+    <index>85</index>
+    <titles>Hunting Adeline</titles>
+    <authors>H. D. Carlton</authors>
+    <regular_prices>$21.70</regular_prices>
+    <release_dates>10-12-22</release_dates>
+  </row>
+  <row>
+    <index>86</index>
+    <titles>The Light We Carry</titles>
+    <authors>Michelle Obama</authors>
+    <regular_prices>$35.00</regular_prices>
+    <release_dates>11-15-22</release_dates>
+  </row>
+  <row>
+    <index>87</index>
+    <titles>The Last Wish</titles>
+    <authors>Andrzej Sapkowski</authors>
+    <regular_prices>$17.47</regular_prices>
+    <release_dates>05-05-15</release_dates>
+  </row>
+  <row>
+    <index>88</index>
+    <titles>The Midnight Library</titles>
+    <authors>Matt Haig</authors>
+    <regular_prices>$16.72</regular_prices>
+    <release_dates>09-29-20</release_dates>
+  </row>
+  <row>
+    <index>89</index>
+    <titles>Never Lie</titles>
+    <authors>Freida McFadden</authors>
+    <regular_prices>$42.62</regular_prices>
+    <release_dates>11-08-22</release_dates>
+  </row>
+  <row>
+    <index>90</index>
+    <titles>The Boys from Biloxi</titles>
+    <authors>John Grisham</authors>
+    <regular_prices>$35.00</regular_prices>
+    <release_dates>10-18-22</release_dates>
+  </row>
+  <row>
+    <index>91</index>
+    <titles>The Ballad of Songbirds and Snakes</titles>
+    <authors>Suzanne Collins</authors>
+    <regular_prices>$18.26</regular_prices>
+    <release_dates>05-19-20</release_dates>
+  </row>
+  <row>
+    <index>92</index>
+    <titles>Trust (Pulitzer Prize Winner)</titles>
+    <authors>Hernan Diaz</authors>
+    <regular_prices>$20.85</regular_prices>
+    <release_dates>05-03-22</release_dates>
+  </row>
+  <row>
+    <index>93</index>
+    <titles>The 7 Habits of Highly Effective People</titles>
+    <authors>Stephen R. Covey</authors>
+    <regular_prices>$16.95</regular_prices>
+    <release_dates>12-28-03</release_dates>
+  </row>
+  <row>
+    <index>94</index>
+    <titles>True Believer</titles>
+    <authors>Jack Carr</authors>
+    <regular_prices>$23.90</regular_prices>
+    <release_dates>07-30-19</release_dates>
+  </row>
+  <row>
     <index>95</index>
-    <titles>Childrens Understanding and Absorb Quickly</titles>
-    <authors>Jaime Torres</authors>
-    <regular_prices>$3.95</regular_prices>
-    <release_dates>04-27-23</release_dates>
+    <titles>I Will Teach You to Be Rich</titles>
+    <authors>Ramit Sethi</authors>
+    <regular_prices>$30.40</regular_prices>
+    <release_dates>05-14-19</release_dates>
   </row>
   <row>
     <index>96</index>
-    <titles>Local Woman Missing</titles>
-    <authors>Mary Kubica</authors>
-    <regular_prices>$15.44</regular_prices>
-    <release_dates>05-18-21</release_dates>
+    <titles>The Laws of Human Nature</titles>
+    <authors>Robert Greene</authors>
+    <regular_prices>$22.44</regular_prices>
+    <release_dates>10-23-18</release_dates>
   </row>
   <row>
     <index>97</index>
-    <titles>Business Secrets</titles>
-    <authors>Jason Madejczyk</authors>
-    <regular_prices>$6.95</regular_prices>
-    <release_dates>04-25-23</release_dates>
+    <titles>Reminders of Him</titles>
+    <authors>Colleen Hoover</authors>
+    <regular_prices>$26.17</regular_prices>
+    <release_dates>01-18-22</release_dates>
   </row>
   <row>
     <index>98</index>
-    <titles>The Untethered Soul</titles>
-    <authors>Michael A. Singer</authors>
-    <regular_prices>$24.49</regular_prices>
-    <release_dates>12-12-11</release_dates>
+    <titles>A Court of Frost and Starlight</titles>
+    <authors>Sarah J. Maas</authors>
+    <regular_prices>$18.26</regular_prices>
+    <release_dates>05-01-18</release_dates>
   </row>
   <row>
     <index>99</index>
-    <titles>How to Keep House While Drowning</titles>
-    <authors>KC Davis LPC</authors>
-    <regular_prices>$11.99</regular_prices>
-    <release_dates>04-26-22</release_dates>
+    <titles>The Hobbit</titles>
+    <authors>J. R. R. Tolkien</authors>
+    <regular_prices>$24.35</regular_prices>
+    <release_dates>09-21-20</release_dates>
   </row>
 </data>
