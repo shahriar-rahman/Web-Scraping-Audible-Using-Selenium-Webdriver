@@ -107,7 +107,7 @@ from selenium.webdriver import *
 <br/>
 
 ## ◘ External Links
-For more details, visit:
+For more details, visit the following links:
 * https://pypi.org/project/pandas/
 * https://pypi.org/project/selenium/
 * https://www.python.org/downloads/release/python-3110/
