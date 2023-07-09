@@ -85,7 +85,7 @@ This way, a customer can plan ahead of time and decide as soon as a better deal 
 
 ## ◘ Installation (using pip)
 In order to *install* the required packages on the local machine, follow these steps:
-1. Open pip and type:
+1. Open pip and run the following command:
 ```
 > pip install selenium                                                   
 ```
@@ -93,7 +93,7 @@ In order to *install* the required packages on the local machine, follow these s
 ```
 > pip install pandas                                                          
 ```
-3. openpyxl is a Python library to read/write Excel extensions (xlsx/xlsm/xltx/xltm files), type:
+3. openpyxl is a Python library to read/write Excel extensions (xlsx/xlsm/xltx/xltm files):
 ```
 > pip install openpyxl                                                          
 ```
@@ -102,7 +102,7 @@ In order to *install* the required packages on the local machine, follow these s
 
 ## ◘ Import Packages
 To *import* the dependencies, simply open the preferred IDE or Notebook: 
-1. For Pandas, type:
+1. For Pandas, run the following command:
 ```
 import pandas                                     
 ```
@@ -114,7 +114,7 @@ import time
 ```
 import selenium                                     
 ```
-4. Lastly, import the webdriver from the Selenium module and simply type:
+4. Lastly, import the webdriver from the Selenium module:
 ```
 from selenium.webdriver import *                                     
 ```
