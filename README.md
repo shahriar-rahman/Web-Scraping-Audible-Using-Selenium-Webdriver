@@ -1,9 +1,9 @@
+===========================================================================
 # Web Scraping Audible using Selenium Webdriver
-
-An automated data scraping script for Amazon products based on a user search, which would parse the sites using the concepts of Pagination to extract the product information and store it inside the memory.
+An automated scraping script for Audible product information based on a user search, which would, at first, parse through the pages using the concepts of Pagination and scrape all relevant information. After the scraping procedure, it stores the collected data inside the memory as different extensions (CSV, XML, XLSX, and JSON).
 
 ## Introduction
----------------------------------------------------------
+---------------------------------------------------------------------------
 For regular customers at Audible, it is a predominant task to keep track of a myriad of audiobooks. 
 The primary initiative of this project is to obtain relevant information regarding the audiobooks that are handpicked by Audible 
 site and are considered the best sellers to notify users of their new potential purchases. 
@@ -13,8 +13,9 @@ This way, a customer can plan ahead of time and decide as soon as a better deal 
  
 ![alt text](https://github.com/shahriar-rahman/Web-Scraping-Audible-Using-Selenium-Webdriver/blob/main/img/Audible_screenshot.PNG)
 
+
 ## Project Organization
----------------------------------------------------------
+---------------------------------------------------------------------------
 
     ├── LICENSE
     ├── Makefile             <- Makefile with various commands
@@ -43,20 +44,29 @@ This way, a customer can plan ahead of time and decide as soon as a better deal 
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
 
---------
-## Methods Utilized:
-• Python 3.11
+---------------------------------------------------------------------------
+## Methodologies Applied:
+* Webdriver and Expected Conditions
+* System queue, Implicit and Explicit Waits
+* Chrome and Chrome Options
+* Pagination
+* DataFrame Storage and Manipulation
+* Saving file extensions using CSV, Excel, JSON and XML format
+• IDE (PyCharm 2023.1 Community Edition)
 
-• Selenium 4.8.3
+## Module Requirements:
+* Python 3.11
+* Selenium 4.8.3
+* Pandas 2.0.0
 
-• Webdriver and Expected Conditions
-
-• System queue, Implicit and Explicit Waits
-
-• Chrome and Chrome Options
-
-• Pagination
-
-• DataFrame Manipulation using Pandas
-
-• Data Storage using CSV, Excel, JSON and XML format
+## Installation (using pip)
+In order to *install* bs4 on the local machine, follow these steps:
+1. Open pip and type:
+```
+> pip install selenium                                                   
+```
+2. To install the Pandas Library, type:
+```
+> pip install pandas                                                          
+```
+===========================================================================
