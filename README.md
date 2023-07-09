@@ -23,6 +23,23 @@ This way, a customer can plan ahead of time and decide as soon as a better deal 
 
 <br/><br/>
 
+
+## ◘ Methodologies & Technologies applied:
+* Webdriver and Expected Conditions
+* System queue, Implicit and Explicit Waits
+* Chrome and Chrome Options
+* Pagination
+* DataFrame Storage and Manipulation
+* Saving file extensions using CSV, Excel, JSON and XML format
+* PyCharm IDE 2023.1 Community Edition
+
+<br/><br/>
+
+## ◘ Flowchart of the proposed Scraping process:
+![alt text](https://github.com/shahriar-rahman/Web-Scraping-Audible-Using-Selenium-Webdriver/blob/main/img/ScrapingFlowchart.png)
+
+<br/><br/>
+
 ## ◘ Project Organization
 ---------------------------------------------------------------------------
 
@@ -54,22 +71,6 @@ This way, a customer can plan ahead of time and decide as soon as a better deal 
 
 
 ---------------------------------------------------------------------------
-
-<br/><br/>
-
-## ◘ Methodologies & Technologies applied:
-* Webdriver and Expected Conditions
-* System queue, Implicit and Explicit Waits
-* Chrome and Chrome Options
-* Pagination
-* DataFrame Storage and Manipulation
-* Saving file extensions using CSV, Excel, JSON and XML format
-* PyCharm IDE 2023.1 Community Edition
-
-<br/><br/>
-
-## ◘ Flowchart of the proposed Scraping process:
-![alt text](https://github.com/shahriar-rahman/Web-Scraping-Audible-Using-Selenium-Webdriver/blob/main/img/ScrapingFlowchart.png)
 
 <br/><br/>
 
