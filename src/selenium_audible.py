@@ -1,5 +1,6 @@
 import time as t
 import pandas as pd
+import my_package
 from selenium.webdriver.common.by import By
 from selenium.webdriver import Chrome, ChromeOptions
 global_path = "../scraping_data/"
