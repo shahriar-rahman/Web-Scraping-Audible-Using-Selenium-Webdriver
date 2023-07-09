@@ -72,8 +72,8 @@ In order to *install* the required packages on the local machine, follow these s
 > pip install pandas                                                          
 ```
 
-## ◘ Module Imports
-To *import*, simply open the preferred IDE or Notebook: 
+## ◘ Import Packages
+To *import* the dependencies, simply open the preferred IDE or Notebook: 
 1. For Pandas, type:
 ```
 import pandas                                     
