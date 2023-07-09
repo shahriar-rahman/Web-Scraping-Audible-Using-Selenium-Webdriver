@@ -53,6 +53,7 @@ This way, a customer can plan ahead of time and decide as soon as a better deal 
 * Saving file extensions using CSV, Excel, JSON and XML format
 • IDE (PyCharm 2023.1 Community Edition)
 
+## ◘ Flowchart of the proposed Scraping process:
 ![alt text](https://github.com/shahriar-rahman/Web-Scraping-Audible-Using-Selenium-Webdriver/blob/main/img/ScrapingFlowchart.png)
 
 ## ◘ Module Requirements:
