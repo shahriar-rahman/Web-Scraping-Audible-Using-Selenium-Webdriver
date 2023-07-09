@@ -1,6 +1,8 @@
 ===========================================================================
 # Web Scraping Audible using Selenium Webdriver
 An automated scraping script for Audible product information based on a user search, which would, at first, parse through the pages using the concepts of Pagination and scrape all relevant information. After the scraping procedure, it stores the collected data inside the memory as different extensions (CSV, XML, XLSX, and JSON).
+ 
+![alt text](https://github.com/shahriar-rahman/Web-Scraping-Audible-Using-Selenium-Webdriver/blob/main/img/Audible_screenshot.PNG)
 
 ## ◘ Introduction
 ---------------------------------------------------------------------------
@@ -10,9 +12,6 @@ site and are considered the best sellers to notify users of their new potential 
 
 The data contains the title of the audiobooks sorted by best rating, their respective authors, the regular prices of such items, and the release dates.
 This way, a customer can plan ahead of time and decide as soon as a better deal offer is announced, which in most cases is a limited type of offer.
- 
-![alt text](https://github.com/shahriar-rahman/Web-Scraping-Audible-Using-Selenium-Webdriver/blob/main/img/Audible_screenshot.PNG)
-
 
 ## ◘ Project Organization
 ---------------------------------------------------------------------------
