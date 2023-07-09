@@ -81,7 +81,7 @@ import pandas
 ```
 2. Time is a built-in Python library and can be accessed by typing:
 ```
-> pip install selenium                                                   
+import time                                         
 ```  
 3. Then, for Selenium, type:
 ```
