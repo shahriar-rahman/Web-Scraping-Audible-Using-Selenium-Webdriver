@@ -72,4 +72,19 @@ In order to *install* bs4 on the local machine, follow these steps:
 ```
 > pip install pandas                                                          
 ```
+
+
+To *import*, simply open the preferred IDE or Notebook: 
+For Pandas, type:
+```
+import pandas
+```
+Then, for Selenium, type:
+```
+import selenium
+```
+Lastly, to import the webdriver from Selenium module,type:
+```
+from selenium.webdriver import *
+```
 ===========================================================================
