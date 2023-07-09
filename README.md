@@ -8,7 +8,7 @@ An automated scraping script for Audible product information based on a user sea
 
  <br/><br/>
  
-## ◘ Introduction
+### ◘ Introduction
 ---------------------------------------------------------------------------
 For regular customers at Audible, it is a predominant task to keep track of a myriad of audiobooks. 
 The primary initiative of this project is to obtain relevant information regarding the audiobooks that are handpicked by Audible 
@@ -24,7 +24,7 @@ This way, a customer can plan ahead of time and decide as soon as a better deal 
 <br/><br/>
 
 
-## ◘ Methodologies & Technologies applied
+### ◘ Methodologies & Technologies applied
 * Webdriver and Expected Conditions
 * System queue, Implicit and Explicit Waits
 * Chrome and Chrome Options
@@ -35,12 +35,12 @@ This way, a customer can plan ahead of time and decide as soon as a better deal 
 
 <br/><br/>
 
-## ◘ Flowchart of the proposed Scraping process
+### ◘ Flowchart of the proposed Scraping process
 ![alt text](https://github.com/shahriar-rahman/Web-Scraping-Audible-Using-Selenium-Webdriver/blob/main/img/ScrapingFlowchart.png)
 
 <br/><br/>
 
-## ◘ Project Organization
+### ◘ Project Organization
 ---------------------------------------------------------------------------
 
     ├── LICENSE
@@ -74,7 +74,7 @@ This way, a customer can plan ahead of time and decide as soon as a better deal 
 
 <br/><br/>
 
-## ◘ Module Requirements
+### ◘ Module Requirements
 * Python 3.11
 * Selenium 4.8.3
 * Webdriver Manager 3.8.6
@@ -83,7 +83,7 @@ This way, a customer can plan ahead of time and decide as soon as a better deal 
 
 <br/><br/>
 
-## ◘ Installation (using pip)
+### ◘ Installation (using pip)
 In order to *install* the required packages on the local machine, follow these steps:
 1. Open pip and run the following command:
 ```
@@ -100,7 +100,7 @@ In order to *install* the required packages on the local machine, follow these s
 
 <br/><br/>
 
-## ◘ Import Packages
+### ◘ Import Packages
 To *import* the dependencies, simply open the preferred IDE or Notebook: 
 1. For Pandas, run the following command:
 ```
@@ -120,7 +120,7 @@ from selenium.webdriver import *
 ```
 <br/><br/>
 
-## ◘ Installing setup.py
+### ◘ Installing setup.py
 1. To use the *setup.py* file in Python, the first objective is to have the *setuptools* module installed. It can be accomplished by running the following command:
 ```
 pip install setuptools                                     
@@ -140,7 +140,7 @@ import my_package
 
 <br/><br/>
 
-## ◘ Supplementary Resources
+### ◘ Supplementary Resources
 For more details, visit the following links:
 * https://pypi.org/project/pandas/
 * https://pypi.org/project/openpyxl/
@@ -149,7 +149,7 @@ For more details, visit the following links:
 
 <br/><br/>
 
-## ◘ License
+### ◘ License
 This is free and unencumbered software released into the public domain. Anyone is free to copy, modify, publish, use, compile, sell, or distribute this software, either in source code form or as a compiled binary, for any purpose, commercial or non-commercial, and by any means.
 
 <br/><br/>
