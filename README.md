@@ -54,9 +54,12 @@ This way, a customer can plan ahead of time and decide as soon as a better deal 
 * Saving file extensions using CSV, Excel, JSON and XML format
 • IDE (PyCharm 2023.1 Community Edition)
 
+![alt text](https://github.com/shahriar-rahman/Web-Scraping-Audible-Using-Selenium-Webdriver/blob/main/img/ScrapingFlowchart.png)
+
 ## Module Requirements:
 * Python 3.11
 * Selenium 4.8.3
+* Webdriver Manager 3.8.6
 * Pandas 2.0.0
 
 ## Installation (using pip)
