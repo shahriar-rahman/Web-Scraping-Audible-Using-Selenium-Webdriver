@@ -114,7 +114,7 @@ from selenium.webdriver import *
 ```
 <br/><br/>
 
-## ◘ External Links
+## ◘ Supplimentary Resources:
 For more details, visit the following links:
 * https://pypi.org/project/pandas/
 * https://pypi.org/project/selenium/
