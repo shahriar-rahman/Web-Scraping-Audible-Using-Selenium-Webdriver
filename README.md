@@ -1,5 +1,5 @@
 ===========================================================================
-# ◘ Web Scraping Audible using Selenium Webdriver
+# Web Scraping Audible using Selenium Webdriver
 An automated scraping script for Audible product information based on a user search, which would, at first, parse through the pages using the concepts of Pagination and scrape all relevant information. After the scraping procedure, it stores the collected data inside the memory as different extensions (CSV, XML, XLSX, and JSON).
 
 ## ◘ Introduction
@@ -14,7 +14,7 @@ This way, a customer can plan ahead of time and decide as soon as a better deal 
 ![alt text](https://github.com/shahriar-rahman/Web-Scraping-Audible-Using-Selenium-Webdriver/blob/main/img/Audible_screenshot.PNG)
 
 
-## Project Organization
+## ◘ Project Organization
 ---------------------------------------------------------------------------
 
     ├── LICENSE
@@ -45,7 +45,7 @@ This way, a customer can plan ahead of time and decide as soon as a better deal 
 
 
 ---------------------------------------------------------------------------
-## Methodologies Applied:
+## ◘ Methodologies Applied:
 * Webdriver and Expected Conditions
 * System queue, Implicit and Explicit Waits
 * Chrome and Chrome Options
@@ -56,13 +56,13 @@ This way, a customer can plan ahead of time and decide as soon as a better deal 
 
 ![alt text](https://github.com/shahriar-rahman/Web-Scraping-Audible-Using-Selenium-Webdriver/blob/main/img/ScrapingFlowchart.png)
 
-## Module Requirements:
+## ◘ Module Requirements:
 * Python 3.11
 * Selenium 4.8.3
 * Webdriver Manager 3.8.6
 * Pandas 2.0.0
 
-## Installation (using pip)
+## ◘ Installation (using pip)
 In order to *install* the required packages on the local machine, follow these steps:
 1. Open pip and type:
 ```
@@ -73,7 +73,7 @@ In order to *install* the required packages on the local machine, follow these s
 > pip install pandas                                                          
 ```
 
-## Module Imports
+## ◘ Module Imports
 To *import*, simply open the preferred IDE or Notebook: 
 1. For Pandas, type:
 ```
