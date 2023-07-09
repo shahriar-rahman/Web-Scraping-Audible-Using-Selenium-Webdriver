@@ -3,10 +3,10 @@
 An automated scraping script for Audible product information based on a user search, which would, at first, parse through the pages using the concepts of Pagination and scrape all relevant information. After the scraping procedure, it stores the collected data inside the memory as different extensions (CSV, XML, XLSX, and JSON).
 
 <div align="center">
-    <img width="60%" src="img/audibleLogo.gif" alt="audible.gif" >
+    <img width="50%" src="img/audibleLogo.gif" alt="audible.gif" >
 </div>
 
- <br/>
+ <br/><br/>
  
 ## ◘ Introduction
 ---------------------------------------------------------------------------
@@ -55,7 +55,7 @@ This way, a customer can plan ahead of time and decide as soon as a better deal 
 
 ---------------------------------------------------------------------------
 
-<br/>
+<br/><br/>
 
 ## ◘ Methodologies Applied:
 * Webdriver and Expected Conditions
@@ -66,7 +66,7 @@ This way, a customer can plan ahead of time and decide as soon as a better deal 
 * Saving file extensions using CSV, Excel, JSON and XML format
 • IDE (PyCharm 2023.1 Community Edition)
 
-<br/>
+<br/><br/>
 
 ## ◘ Flowchart of the proposed Scraping process:
 ![alt text](https://github.com/shahriar-rahman/Web-Scraping-Audible-Using-Selenium-Webdriver/blob/main/img/ScrapingFlowchart.png)
@@ -77,7 +77,7 @@ This way, a customer can plan ahead of time and decide as soon as a better deal 
 * Webdriver Manager 3.8.6
 * Pandas 2.0.0
 
-<br/>
+<br/><br/>
 
 ## ◘ Installation (using pip)
 In order to *install* the required packages on the local machine, follow these steps:
@@ -90,7 +90,7 @@ In order to *install* the required packages on the local machine, follow these s
 > pip install pandas                                                          
 ```
 
-<br/>
+<br/><br/>
 
 ## ◘ Import Packages
 To *import* the dependencies, simply open the preferred IDE or Notebook: 
@@ -110,7 +110,7 @@ import selenium
 ```
 from selenium.webdriver import *                                     
 ```
-<br/>
+<br/><br/>
 
 ## ◘ External Links
 For more details, visit the following links:
