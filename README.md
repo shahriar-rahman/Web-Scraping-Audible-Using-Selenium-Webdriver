@@ -75,15 +75,19 @@ In order to *install* bs4 on the local machine, follow these steps:
 
 ## Module Imports
 To *import*, simply open the preferred IDE or Notebook: 
-For Pandas, type:
+1. For Pandas, type:
 ```
 import pandas                                     
 ```
-Then, for Selenium, type:
+2. Time is a built-in Python library and can be accessed by typing:
+```
+> pip install selenium                                                   
+```  
+3. Then, for Selenium, type:
 ```
 import selenium                                     
 ```
-Lastly, to import the webdriver from Selenium module,type:
+4. Lastly, to import the webdriver from Selenium module,type:
 ```
 from selenium.webdriver import *                                     
 ```
