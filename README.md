@@ -24,7 +24,7 @@ This way, a customer can plan ahead of time and decide as soon as a better deal 
 <br/><br/>
 
 
-## ◘ Methodologies & Technologies applied:
+## ◘ Methodologies & Technologies applied
 * Webdriver and Expected Conditions
 * System queue, Implicit and Explicit Waits
 * Chrome and Chrome Options
@@ -35,7 +35,7 @@ This way, a customer can plan ahead of time and decide as soon as a better deal 
 
 <br/><br/>
 
-## ◘ Flowchart of the proposed Scraping process:
+## ◘ Flowchart of the proposed Scraping process
 ![alt text](https://github.com/shahriar-rahman/Web-Scraping-Audible-Using-Selenium-Webdriver/blob/main/img/ScrapingFlowchart.png)
 
 <br/><br/>
@@ -74,7 +74,7 @@ This way, a customer can plan ahead of time and decide as soon as a better deal 
 
 <br/><br/>
 
-## ◘ Module Requirements:
+## ◘ Module Requirements
 * Python 3.11
 * Selenium 4.8.3
 * Webdriver Manager 3.8.6
@@ -120,7 +120,7 @@ from selenium.webdriver import *
 ```
 <br/><br/>
 
-## ◘ Installing setup.py:
+## ◘ Installing setup.py
 1. To use the *setup.py* file in Python, the first objective is to have the *setuptools* module installed. It can be accomplished by running the following command:
 ```
 pip install setuptools                                     
@@ -140,7 +140,7 @@ import my_package
 
 <br/><br/>
 
-## ◘ Supplementary Resources:
+## ◘ Supplementary Resources
 For more details, visit the following links:
 * https://pypi.org/project/pandas/
 * https://pypi.org/project/openpyxl/
@@ -149,7 +149,7 @@ For more details, visit the following links:
 
 <br/><br/>
 
-## ◘ License:
+## ◘ License
 This is free and unencumbered software released into the public domain. Anyone is free to copy, modify, publish, use, compile, sell, or distribute this software, either in source code form or as a compiled binary, for any purpose, commercial or non-commercial, and by any means.
 
 ===========================================================================
