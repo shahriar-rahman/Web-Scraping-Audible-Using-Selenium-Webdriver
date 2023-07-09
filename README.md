@@ -54,9 +54,12 @@ This way, a customer can plan ahead of time and decide as soon as a better deal 
 * Saving file extensions using CSV, Excel, JSON and XML format
 • IDE (PyCharm 2023.1 Community Edition)
 
+![alt text](https://github.com/shahriar-rahman/Web-Scraping-Audible-Using-Selenium-Webdriver/blob/main/img/ScrapingFlowchart.png)
+
 ## Module Requirements:
 * Python 3.11
 * Selenium 4.8.3
+* Webdriver Manager 3.8.6
 * Pandas 2.0.0
 
 ## Installation (using pip)
@@ -68,5 +71,24 @@ In order to *install* bs4 on the local machine, follow these steps:
 2. To install the Pandas Library, type:
 ```
 > pip install pandas                                                          
+```
+
+## Module Imports
+To *import*, simply open the preferred IDE or Notebook: 
+1. For Pandas, type:
+```
+import pandas                                     
+```
+2. Time is a built-in Python library and can be accessed by typing:
+```
+import time                                         
+```  
+3. Then, for Selenium, type:
+```
+import selenium                                     
+```
+4. Lastly, to import the webdriver from Selenium module,type:
+```
+from selenium.webdriver import *                                     
 ```
 ===========================================================================
