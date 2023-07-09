@@ -3,7 +3,7 @@
 An automated scraping script for Audible product information based on a user search, which would, at first, parse through the pages using the concepts of Pagination and scrape all relevant information. After the scraping procedure, it stores the collected data inside the memory as different extensions (CSV, XML, XLSX, and JSON).
 
 <div align="center">
-    <img width="50%" src="img/audibleLogo.gif" alt="audible.gif" >
+    <img width="55%" src="img/audibleLogo.gif" alt="audible.gif" >
 </div>
 
  <br/><br/>
@@ -70,7 +70,9 @@ This way, a customer can plan ahead of time and decide as soon as a better deal 
 
 ## ◘ Flowchart of the proposed Scraping process:
 ![alt text](https://github.com/shahriar-rahman/Web-Scraping-Audible-Using-Selenium-Webdriver/blob/main/img/ScrapingFlowchart.png)
-<br/>
+
+<br/><br/>
+
 ## ◘ Module Requirements:
 * Python 3.11
 * Selenium 4.8.3
