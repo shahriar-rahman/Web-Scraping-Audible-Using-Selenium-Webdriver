@@ -1,7 +1,7 @@
 import time
 import asyncio
 import time as t
-# import pandas as pd
+import pandas as pd
 from selenium.webdriver import Chrome, ChromeOptions
 # from selenium.webdriver.common.by import By
 from caqui.caqui import AsyncDriver
@@ -41,7 +41,7 @@ class SeleniumDriver:
         self.release_dates = []
 
         # DataFrame Initialization
-        # self.df = pd.DataFrame(columns=['titles', 'authors', 'regular_prices', 'release_dates'])
+        self.df = pd.DataFrame(columns=['titles', 'authors', 'regular_prices', 'release_dates'])
 
     async def pagination_setup(self, url):
         # Establish Navigational Link
@@ -123,15 +123,10 @@ class SeleniumDriver:
         try:
             # Transfer to DataFrame
             for row in range(0, len(self.titles)):
-                # self.df.loc[len(self.df)] = {'titles': self.titles[row], 'authors': self.authors[row],
-                #                              'regular_prices': self.regular_prices[row],
-                #                              'release_dates': self.release_dates[row]}
-            # print(self.df)
-                result = {'titles': self.titles[row], 'authors': self.authors[row],
-                        'regular_prices': self.regular_prices[row],
-                        'release_dates': self.release_dates[row]
-                }
-                print("result :", result)
+                self.df.loc[len(self.df)] = {'titles': self.titles[row], 'authors': self.authors[row],
+                                             'regular_prices': self.regular_prices[row],
+                                             'release_dates': self.release_dates[row]}
+            print(self.df)
 
         except Exception as ex:
             print("Transfer into the DataFrame Failed.", ex)
@@ -139,11 +134,11 @@ class SeleniumDriver:
         else:
             pass
             # CSV, XML, JSON & Excel files
-            # self.df.to_csv('audible_best_sellers.csv', sep=',')
-            # self.df.to_xml('audible_best_sellers.xml')
-            # self.df.to_json('audible_best_sellers.json')
-            # self.df.to_excel("audible_best_sellers.xlsx")
-            # print("DataFrame storage successful.\n")
+            self.df.to_csv('audible_best_sellers.csv', sep=',')
+            self.df.to_xml('audible_best_sellers.xml')
+            self.df.to_json('audible_best_sellers.json')
+            self.df.to_excel("audible_best_sellers.xlsx")
+            print("DataFrame storage successful.\n")
 
         finally:
             # Confirmation / Diagnosis
@@ -154,7 +149,6 @@ class SeleniumDriver:
 async def __collect_data(page):
     async with semaphore_new_session:
         drv = SeleniumDriver()
-        # await drv.pagination_setup(page)
 
     async with semaphore:
         await drv.scraping(page)
