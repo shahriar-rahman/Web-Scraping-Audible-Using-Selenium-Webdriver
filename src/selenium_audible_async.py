@@ -132,7 +132,6 @@ class SeleniumDriver:
             print("Transfer into the DataFrame Failed.", ex)
 
         else:
-            pass
             # CSV, XML, JSON & Excel files
             self.df.to_csv('audible_best_sellers.csv', sep=',')
             self.df.to_xml('audible_best_sellers.xml')
