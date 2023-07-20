@@ -1,7 +1,10 @@
 import time as t
 import pandas as pd
-from selenium.webdriver import Chrome, ChromeOptions
+import my_package
 from selenium.webdriver.common.by import By
+from selenium.webdriver import Chrome, ChromeOptions
+global_path = "../scraping_data/"
+headless_mode = 1
 
 
 class SeleniumDriver:
@@ -9,6 +12,11 @@ class SeleniumDriver:
         # Webdriver object with set-ups
         options = ChromeOptions()
         options.add_experimental_option("detach", True)
+
+        if headless_mode:
+            options.add_argument('headless')
+            options.add_argument('window-size=1920x1080')
+
         self.driver = Chrome(options=options)
 
         self.pages = 0
@@ -29,7 +37,15 @@ class SeleniumDriver:
         # Locate indexed values
         page_index = self.driver.find_elements(By.XPATH, "//html/body/div[1]/div[5]/div[5]/div/div[2]/div[6]/form"
                                                          "/div/div/div[2]/div/span/ul/li")
-        self.pages = int(page_index[-2].text)
+        try:
+            self.pages = int(page_index[-2].text)
+
+        except Exception as exc:
+            print("! ", exc)
+            self.pages = page_index[-2].text
+
+        finally:
+            print("Transition to the next page successful.")
 
     def scraping(self):
         while self.current_page <= self.pages:
@@ -95,10 +111,10 @@ class SeleniumDriver:
         else:
             pass
             # CSV, XML, JSON & Excel files
-            self.df.to_csv('audible_best_sellers.csv', sep=',')
-            self.df.to_xml('audible_best_sellers.xml')
-            self.df.to_json('audible_best_sellers.json')
-            self.df.to_excel("audible_best_sellers.xlsx")
+            self.df.to_csv(global_path + 'csv/audible_best_sellers.csv', sep=',')
+            self.df.to_json(global_path + 'json/audible_best_sellers.json')
+            self.df.to_excel(global_path + 'excel/audible_best_sellers.xlsx')
+            self.df.to_xml(global_path + 'xml/audible_best_sellers.xml')
             print("DataFrame storage successful.\n")
 
         finally:

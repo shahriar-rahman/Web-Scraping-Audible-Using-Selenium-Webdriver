@@ -5,6 +5,7 @@
 Selenium 4.8.3
 Webdriver Manager 3.8.6
 pandas 2.0.0
+openpyxl
 json
 click
 Sphinx
