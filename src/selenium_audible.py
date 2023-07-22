@@ -123,15 +123,20 @@ class SeleniumDriver:
 
 
 if __name__ == "__main__":
+    start = t.time()
+
     drv = SeleniumDriver()
 
     # Audible Site Link
     start_urls = 'https://www.audible.com/adblbestsellers?ref=a_hp_t1_navTop_pl0cg1c0r0&pf_rd_p=c592ea51-' \
-                 'fd36-4dc9-b9af-f665ee88670b&pf_rd_r=ZZTKEW7RNC9WX81TKH8K&pageLoadId=FwsYKeyG8zKtt9sK&creativeId' \
-                 '=711b5140-9c53-4812-acee-f4c553eb51fe'
+                'fd36-4dc9-b9af-f665ee88670b&pf_rd_r=ZZTKEW7RNC9WX81TKH8K&pageLoadId=FwsYKeyG8zKtt9sK&creativeId' \
+                '=711b5140-9c53-4812-acee-f4c553eb51fe'
+
 
     drv.pagination_setup(start_urls)
     drv.scraping()
     drv.store_values()
+    end = t.time()
+    print(f"Time: {end-start:.2f} sec")
 
 
